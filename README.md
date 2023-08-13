@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Squirrelins!
+- 🎓I'm a student and a quick learner!
+- 📚 Currently I'm learning about Python & SQL! It's going pretty well!
 - 👀 I’m interested in coding, machine learning and AI, web development, graphic design and UI/UX design and gaming!
-- 🌱 I’m currently learning Python, MySQL, HTML & CSS. 
-- 📫 How to reach me? Message me on Discord @Squirrelins
+- 💬 How to reach me? Message me on Discord @Squirrelins
