@@ -2,5 +2,6 @@
 - 🐿️ I love Squirrels! They're my favorite animal! 
 - 🎓I'm a student and a quick learner!
 - 📚 Currently I'm learning about Python & SQL! It's going pretty well!
-- 👀 I’m interested in coding, machine learning and AI, web development, graphic design and UI/UX design and gaming!
+- 👀 I’m interested in coding, machine learning and AI, web development, graphic design, photography, oh and gaming!
+- 🎮 I love Apex Legends, World of Warcraft, and Tears of the Kingdom/Breath of the Wild!
 - 💬 How to reach me? Message me on Discord @Squirrelins
